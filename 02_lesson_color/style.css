@@ -1,0 +1,13 @@
+body {
+    background-color: papayawhip;
+    color: darkblue;
+    /* color: rgb(#ff0000, #008000, #0000ff); */
+    /* color: rgb(85, 0, 255); */
+}
+
+p {
+    /* color: #FF0000; */  
+    /* a means transparent  */
+    /* color: rgba(30,255,0,1); */
+    color: #333;
+}

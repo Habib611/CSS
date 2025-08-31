@@ -1,0 +1,20 @@
+h1{
+    border:2px dashed red;
+    width: 25%;
+    /* padding inside border */
+    padding: 5%;    
+    /* margine outside of border */
+    margin: 5%;
+
+}
+
+p {
+    font-size: 32px;
+    font-size: 2rem;
+    font-size: 2em;
+}
+
+/* em means amplifier of the main parent size  */
+p {
+    font-size: 2em;
+}

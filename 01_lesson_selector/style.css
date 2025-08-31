@@ -1,0 +1,32 @@
+*{
+    /* universal selector */
+   font-family: monospace;
+}
+body{
+    font-size: 22px;
+}
+/* multiple tag can be used  */
+h1,h2{
+    color: blue;
+}
+p{
+    color: purple;
+}
+
+/* one tag can be used inside another tag */
+
+p span{
+    color:red;
+}
+
+/* class . */
+.gray {
+    color: gray;
+}
+/* id used # */
+
+/* always show last last if it already used in early */
+#second {
+    color: black;
+}
+
