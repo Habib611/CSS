@@ -1,0 +1,47 @@
+/* h1 {
+    border: 2px red dashed;
+    width: 50%;
+    font-size: 3rem;
+    padding: 0.5em;
+
+
+} */
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+.container{
+          /* border: 2px red dashed; */
+          border: 2px outset red;
+          border: 10px double red;
+          /* border-top: 2px solid green;
+          border-right: solid 3px blue; */
+          /* border-color: chocolate; */
+          font-size: 23px;
+          padding: 2rem;
+          /* margin: 1em; */
+          /* top bottom right left  same for padding*/
+          margin: 1em 2em 1.5em 2em;
+          /* margin-top: 2rem;
+          margin-right: 1.5rem;
+           margin-bottom: 1.5rem;
+          margin-left: 1.5rem; */
+          outline: 3px solid black;
+          /* outline-offset: -19px; */
+          outline-offset: 09px;
+         
+}
+
+.circle {
+    /* margin: 30px; */
+     margin: 3rem auto;
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    outline: 3px solid red;
+    outline-offset: 4px;
+    border-radius: 50%;   
+}
